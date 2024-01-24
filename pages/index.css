@@ -87,6 +87,7 @@
   margin: auto auto 40px 40px;
 }
 .header__footer_hours_list {
+  flex-direction: column;
   list-style-type: none;
 }
 .header__footer_hours_list-item {
