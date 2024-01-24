@@ -83,12 +83,13 @@
 }
 
 .header__footer_hours {
+  display: flex;
   margin: auto auto 40px 40px;
 }
-.header__footer_list {
+.header__footer_hours_list {
   list-style-type: none;
 }
-.header__footer_list-item {
+.header__footer_hours_list-item {
 }
 
 .header__address {
@@ -142,7 +143,7 @@
 }
 .recipes__viedo-item {
 }
-.recipes__iframes {
+.recipes__iframe {
 }
 
 .recipes__video-caption {
