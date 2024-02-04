@@ -188,14 +188,14 @@
   display: flex;
   box-sizing: border-box;
 }
-.resevation__form_input {
+.reservation__form_input {
   border-radius: 4px;
   margin-top: 8px;
   height: 60px;
   box-sizing: border-box;
 }
 
-.resevation__form_input::placeholder {
+.reservation__form_input::placeholder {
   padding-left: 20px;
   color: #838383;
 }
