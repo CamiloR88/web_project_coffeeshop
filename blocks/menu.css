@@ -4,7 +4,7 @@
   flex-wrap: wrap;
   height: 100vh;
   min-height: 720px;
-  max-height: 900px;
+  max-height: 1100px;
   background-position: center;
   background-color: #fff;
   background-position: center;
@@ -26,20 +26,21 @@
 }
 .menu__subtitle {
   max-width: 800px;
-  margin: 24px auto 0 auto;
+  margin: 24px auto 100px auto;
 }
 .menu__cards {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  height: 300px;
-  width: 540px;
-  padding-top: 40px;
-  padding-left: 130px;
+  height: 25vh;
+  width: 100vh;
+  margin-bottom: 100px;
 }
 
 .menu__card {
+  display: flex;
+  flex-direction: column;
   width: 540px;
   background-color: aquamarine;
 }
@@ -49,13 +50,13 @@
 }
 .menu__card_content {
   list-style-type: none;
+  max-width: fit-content;
 }
 .menu__card_list-item {
-  justify-content: space-between;
   display: flex;
+  flex-direction: row;
 }
 .menu__card_list-divider {
   display: flex;
   border-bottom: 1px solid #000;
-  flex-basis: 180px;
 }
