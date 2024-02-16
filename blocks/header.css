@@ -17,25 +17,6 @@
   font-size: 16px;
   line-height: 20px;
 }
-.nav {
-  display: flex;
-  justify-content: space-between;
-  margin: 30px 80px 0px 30px;
-}
-.nav__logo {
-  height: 39px;
-  width: 105px;
-}
-.nav__links {
-  display: flex;
-  column-gap: 20px;
-  list-style-type: none;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-}
-.nav__link {
-}
 
 .header__title {
   max-width: 729px;
