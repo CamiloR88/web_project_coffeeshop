@@ -47,7 +47,6 @@
   display: flex;
   flex-direction: column;
   width: 540px;
-  background-color: aquamarine;
 }
 .menu__card_express {
   grid-column: 2/3;
@@ -55,7 +54,6 @@
   display: flex;
   flex-direction: column;
   width: 540px;
-  background-color: aquamarine;
 }
 .menu__card_bakery {
   grid-column: 1 /3;
