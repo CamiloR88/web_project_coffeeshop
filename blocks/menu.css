@@ -32,12 +32,13 @@
   display: flex;
   display: grid;
   grid-template-columns: 50vh 50vh;
-  grid-template-rows: 20vh 20vh;
+  grid-template-rows: 18vh 18vh;
   justify-content: space-between;
   height: 210px;
   width: 450px;
+  align-self: center;
   margin-right: auto;
-  margin-left: 150px;
+  margin-left: 100px;
   margin-bottom: 100px;
 }
 
