@@ -1,7 +1,8 @@
 .about {
   display: flex;
   flex-wrap: wrap;
-  height: 35vh;
+  justify-content: space-between;
+  height: 40vh;
   max-height: 800px;
   background-color: #0a2750;
   background-position: center;

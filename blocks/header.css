@@ -69,8 +69,6 @@
   flex-direction: column;
   list-style-type: none;
 }
-.header__footer_hours_list-item {
-}
 
 .header__address {
   margin: auto 80px 40px auto;

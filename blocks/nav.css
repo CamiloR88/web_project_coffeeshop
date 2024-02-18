@@ -16,4 +16,9 @@
   line-height: 20px;
 }
 .nav__link {
+  text-decoration: none;
+  color: black;
+}
+.nav__link:hover {
+  color: rgb(69, 69, 248);
 }

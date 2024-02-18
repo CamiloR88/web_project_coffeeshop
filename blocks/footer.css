@@ -1,6 +1,7 @@
 .footer {
   display: flex;
   flex-direction: column;
+
   flex-wrap: wrap;
   height: 20vh;
   max-height: 800px;
