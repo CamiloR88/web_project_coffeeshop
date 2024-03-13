@@ -40,6 +40,7 @@
   column-gap: 40px;
   list-style-type: none;
   margin: 80px auto 0 auto;
+  padding: 0;
 }
 .recipes__viedo-item {
 }
@@ -53,5 +54,7 @@
   color: #fff;
   margin: 24px 0;
   display: flex;
+  -webkit-box-pack: space-between;
+  -ms-flex-pack: space-between;
   justify-content: space-between;
 }
