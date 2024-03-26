@@ -12,4 +12,4 @@ Fue creado utilizando HTML y CSS, con base en un informe de diseño.
 - Flexbox
 - Posicionamiento
 - grid-layout
-- Iplementacion de formularios
+- Implementacion de formularios
